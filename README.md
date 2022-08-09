@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![demo](./screenshot-github-battles.vercel.app.png)
+![demo](./public/screenshot-github-battles.vercel.app.png)
 
 ## Available Scripts
 
